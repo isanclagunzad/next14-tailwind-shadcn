@@ -9,13 +9,13 @@
 Run the following command to bootstrap your next-app using this template:
 
 ```bash
-yarn create next-app [project-name] -e https://gitlab.com/kitaph/kita-ph-boilerplate
+yarn create next-app [project-name] -e https://github.com/isanclagunzad/next14-tailwind-shadcn
 ```
 
 OR
 
 ```bash
-npx create-next-app [project-name] -e https://gitlab.com/kitaph/kita-ph-boilerplate
+npx create-next-app [project-name] -e https://github.com/isanclagunzad/next14-tailwind-shadcn
 ```
 
 ## Summary
